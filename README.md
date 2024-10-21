@@ -19,6 +19,10 @@ The following topics are available for subscription:
 2. **StatusCbr** – Status information about a component, likely a breaker or device.
 3. **StatusSwg** – Status information related to switching devices.
 
+## Project Architecture
+
+![alt text](IKP_Tim18-1.png)
+
 ## Components
 
 The system consists of the following key components:
